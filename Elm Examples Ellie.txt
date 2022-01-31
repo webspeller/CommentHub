@@ -1,0 +1,9 @@
+Following are the examples of Elm in Ellie:
+
+1) To make pages responsive: 
+2) Top Bar and a button: https://ellie-app.com/74spcVVgWgna1
+3) Example of header with menu and button clicking which acts as a dropdown menu:
+	https://ellie-app.com/7cv8H3tbqGxa1
+4) link for avatar: https://cdn2.iconfinder.com/data/icons/people-round-icons/128/man_avatar-512.png
+5) link for drop-down arrow black solid: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ic_arrow_drop_down_48px.svg/480px-Ic_arrow_drop_down_48px.svg.png
+6)

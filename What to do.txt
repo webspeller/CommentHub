@@ -1,0 +1,15 @@
+1) install the server using docker: docker run --publish 127.0.0.1:3001:3001/tcp registry.gitlab.com/migamake/trials/commenthub-elm-trial
+
+2) Once installed server should point to: https://localhost:3001/index.html
+	2.1) There is an API on the server which we can use or exploit .. and that could be used in the way Mozilla webauthentication api is used..
+	2.2) We need to check whether it is running by logging in using the id and password and the ssh key provided..
+	2.3) we need to add details to check whether its working and we can do that by looking at the video you provided.. 
+and once we have the access.. 
+
+3) we can use the html, css and elm to create the web pages as per the jpg files provided and we need to show all that is done in step 2 after logging in through google at login screen... check the PoC pdf after accessing this much.
+
+further will be informed once we shall be able to do this much.
+
+Access Token for Gitlab: Xi91iY8uUyPZmVkfEPzJ
+
+
